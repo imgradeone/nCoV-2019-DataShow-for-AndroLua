@@ -8,9 +8,9 @@
 
 ## Usage
 
-在项目里植入？去看看 [main.lua](./main.lua)。
+在项目里植入？去看看 [main-for-embedded.lua](./main-for-embedded.lua)。
 
-作为独立的 app 运行？去看看 [main-original.lua](./main-original.lua)。
+作为独立的 app 运行？去看看 [main.lua](./main.lua)。
 
 下载实例？[前往 Releases 页](https://github.com/imgradeone/nCoV-2019-DataShow-for-AndroLua/releases)。
 
