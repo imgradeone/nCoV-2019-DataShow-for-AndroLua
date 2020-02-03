@@ -1,0 +1,16 @@
+appname="疫情数据"
+appver="1.0"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="imgradeone.ncov"
+theme="Theme_Material_Light_Dialog"
+app_key=""
+app_channel=""
+developer=""
+description=""
+debugmode=true
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE"
+}
