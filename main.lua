@@ -1,12 +1,9 @@
---纯原生实现
-
 require "import"
 import "android.app.*"
 import "android.os.*"
 import "android.widget.*"
 import "android.view.*"
---activity.setTitle('AndroLua+')
---activity.setTheme(android.R.style.Theme_Holo_Light)
+
 ncovlayout={
   LinearLayout;
   layout_height="fill";
