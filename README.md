@@ -6,7 +6,7 @@
 
 感谢 [TankNee 提供的 API](https://github.com/TankNee/nCoV-2019-DataAPI)。
 
-# Usage
+## Usage
 
 在项目里植入？去看看 [main.lua](./main.lua)。
 
@@ -17,3 +17,7 @@
 ## Screenshots
 
 ![](./screenshot.png)
+
+## Hint
+
+由于 API 是每 20 分钟抓取一次数据，所以数据可能不及时。
