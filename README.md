@@ -4,7 +4,7 @@
 
 这个实例只能显示全国的数据，更多数据建议使用浏览器查看。
 
-感谢 [TankNee 提供的 API](https://github.com/TankNee/nCoV-2019-DataAPI)。
+数据源来自 [丁香园](https://ncov.dxy.cn)；感谢 [TankNee 提供的 API](https://github.com/TankNee/nCoV-2019-DataAPI)。
 
 ## Usage
 
